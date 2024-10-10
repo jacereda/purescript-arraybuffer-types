@@ -1,8 +1,6 @@
 {
   "name": "purescript-arraybuffer-types",
-  "license": [
-    "MIT"
-  ],
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/purescript-contrib/purescript-arraybuffer-types"
@@ -12,8 +10,5 @@
     "node_modules",
     "bower_components",
     "output"
-  ],
-  "devDependencies": {
-    "purescript-psci-support": "^6.0.0"
-  }
+  ]
 }
