@@ -1,0 +1,16 @@
+package:
+  name: arraybuffer-types
+  publish:
+    license: MIT
+    version: 4.0.0
+    location:
+      githubOwner: purescript-contrib
+      githubRepo: purescript-arraybuffer-types
+  dependencies: []
+  test:
+    main: Test.Main
+    dependencies:
+      - console
+      - effect
+      - prelude
+workspace: {}
